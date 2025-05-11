@@ -1,0 +1,80 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "SleepySadden",
+      "uniqueId": "ee99b75a-824a-48c4-af35-37d704d1a8c1"
+    },
+    "time": 1745183691828,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/YZIbUDI6WT"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SleepySadden",
+      "uniqueId": "ee99b75a-824a-48c4-af35-37d704d1a8c1"
+    },
+    "time": 1745183201740,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/ZcB8F1iwLA"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SleepySadden",
+      "uniqueId": "ee99b75a-824a-48c4-af35-37d704d1a8c1"
+    },
+    "time": 1744754996278,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/DkxB35Nz8n"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SleepySadden",
+      "uniqueId": "ee99b75a-824a-48c4-af35-37d704d1a8c1"
+    },
+    "time": 1744754682118,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/3z4LNsqdHx"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SleepySadden",
+      "uniqueId": "ee99b75a-824a-48c4-af35-37d704d1a8c1"
+    },
+    "time": 1744754633961,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/gC3hNpugTN"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SleepySadden",
+      "uniqueId": "ee99b75a-824a-48c4-af35-37d704d1a8c1"
+    },
+    "time": 1744318222665,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/goLUJlCR07"
+    }
+  }
+]

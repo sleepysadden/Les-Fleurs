@@ -1,0 +1,2 @@
+showHandsInMovingBoat = true
+itemsToShowInMovingBoat = ["minecraft:filled_map", "minecraft:compass", "minecraft:lodestone_compass"]
