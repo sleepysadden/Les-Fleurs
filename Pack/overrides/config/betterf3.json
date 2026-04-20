@@ -10,7 +10,7 @@
 		"space_modules": false,
 		"always_show_profiler": false,
 		"animations": true,
-		"fontScale": 1.0,
+		"fontScale": 0.75,
 		"hide_sidebar": true,
 		"always_show_tps": false
 	},
@@ -22,11 +22,11 @@
 			"name_color": 16755200,
 			"value_color": 5636095,
 			"lines": {
-				"opengl_version": false,
+				"opengl_version": true,
 				"allocation_rate": true,
-				"display": false,
+				"display": true,
 				"java_version": true,
-				"gpu_driver": false,
+				"gpu_driver": true,
 				"memory_usage": true,
 				"allocated_memory": true,
 				"cpu": true,
@@ -43,7 +43,7 @@
 			"lines": {
 				"misc_right": true
 			},
-			"enabled": false
+			"enabled": true
 		}, 
 		{
 			"name": "target",

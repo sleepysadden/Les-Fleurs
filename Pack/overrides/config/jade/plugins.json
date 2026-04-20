@@ -53,7 +53,7 @@
   },
   "treechop": {
     "plugin": true,
-    "show_tree_block_counts": true,
+    "show_tree_block_counts": false,
     "show_num_chops_remaining": true
   },
   "camerapture": {
@@ -62,15 +62,26 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "jadeaddons.create": {
+    "filter": true,
+    "backtank_capacity": true,
+    "goggles.requires_goggles": true,
+    "goggles": false,
+    "blaze_burner": true,
+    "exact_block": true,
+    "goggles.detailed": false,
+    "placard": true
+  },
   "exposure": {
     "lightroom": true,
     "photograph_frame": true
   },
-  "untitledduckmod": {
-    "lay_egg": true
-  },
   "supplementaries": {
     "hat_stand": true
+  },
+  "untitledduckmod": {
+    "lay_egg": false,
+    "next_eat": false
   },
   "jade": {
     "coordinates.rel": false,
@@ -97,7 +108,7 @@
     "hanging_pot.pot_flower": true
   },
   "chesttracker": {
-    "memory_preview": true
+    "memory_preview": false
   },
   "infinitybuttons": {
     "hide_secret_buttons": true,

@@ -2,7 +2,7 @@
   "enabled": true,
   "offhand": true,
   "render2d": true,
-  "render3d": false,
+  "render3d": true,
   "axis": 0,
   "indicator2DStyle": 0,
   "indicator3DStyle": 0,

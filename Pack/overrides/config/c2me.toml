@@ -19,7 +19,7 @@ version = 3
 #  Available variables: is_windows, is_j9vm, is_client, cpus, mem_gb
 # 
 defaultGlobalExecutorParallelismExpression = "default"
-# (Default: 3) Configures the parallelism of global executor
+# (Default: 5) Configures the parallelism of global executor
 globalExecutorParallelism = "default"
 
 [fixes]
@@ -52,7 +52,7 @@ globalExecutorParallelism = "default"
 [noTickViewDistance]
 	# (Default: true) Whether to enable no-tick view distance
 	enabled = "default"
-	# (Default: 4) No-tick view distance max concurrent chunk loads 
+	# (Default: 6) No-tick view distance max concurrent chunk loads 
 	#  Lower this for a better latency and higher this for a faster loading
 	maxConcurrentChunkLoads = "default"
 	# (Default: true) Whether to use compatibility mode to send chunks 
@@ -143,7 +143,7 @@ globalExecutorParallelism = "default"
 [vanillaWorldGenOptimizations]
 	# (Default: true) Whether to enable aquifer optimizations to accelerate overworld worldgen
 	# (may cause incompatibility with other mods)
-	optimizeAquifer = false
+	optimizeAquifer = true
 	# (Default: true) Whether to enable End Biome Cache to accelerate The End worldgen 
 	# This is no longer included in lithium-fabric 
 	# (may cause incompatibility with other mods)

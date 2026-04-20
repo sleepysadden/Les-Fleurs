@@ -2,8 +2,8 @@
   "blocks": {},
   "items": {
     "banner": {
-      "giveEffect": true,
-      "showTooltip": true
+      "giveEffect": false,
+      "showTooltip": false
     }
   }
 }

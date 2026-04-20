@@ -32,7 +32,7 @@
     "value": true
   },
   "do_trinkets_elytra_flight": {
-    "comment": "Will the Elytra and it´s variants work while worn in the cape slot provided by Trinkets?",
+    "comment": "Will the Elytra and itï¿½s variants work while worn in the cape slot provided by Trinkets?",
     "value": true
   },
   "generate_biomes": {
@@ -101,7 +101,7 @@
   },
   "generate_redwood_forests": {
     "comment": "Will Redwood Forests generate?",
-    "value": true
+    "value": false
   },
   "generate_small_sea_sponges": {
     "comment": "Will Small Sea Sponges generate in Coral Reefs?",
@@ -129,7 +129,7 @@
   },
   "cherry_drop_rate": {
     "comment": "Drop rate for Cherries. (expressed as a decimal number where the default, 0.075, is equal to 7.5%)",
-    "value": 0.075
+    "value": 0
   },
   "do_coin_drops_and_loot_generation": {
     "comment": "Will Coins drop from mobs and Coin Pouches generate in certain chests.",
@@ -148,7 +148,7 @@
     "value": true
   },
   "do_enhanced_beacon_display": {
-    "comment": "Change the way Payment Items in the Beacon´s menu are displayed.",
+    "comment": "Change the way Payment Items in the Beaconï¿½s menu are displayed.",
     "value": true
   }
 }

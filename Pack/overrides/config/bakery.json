@@ -1,8 +1,8 @@
 {
   "items": {
     "banner": {
-      "giveEffect": true,
-      "showTooltip": true
+      "giveEffect": false,
+      "showTooltip": false
     },
     "nutrition": {
       "cakeDoughNutrition": 5,

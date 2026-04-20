@@ -5,6 +5,11 @@
 		"-breaks": {
 			"particular": "IGNORED"
 	  }     	
-	}
+	},
+  "enchanted": {
+    "-depends": {
+      "patchouli": "IGNORED"
+    }
+  }
       }
     }

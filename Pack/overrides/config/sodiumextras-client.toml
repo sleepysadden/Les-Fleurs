@@ -2,11 +2,11 @@
 		#Set Fullscreen mode
 		#Borderless let you change between screens more faster and move your mouse across monitors
 		#Allowed Values: WINDOWED, BORDERLESS, FULLSCREEN
-		fullscreen = "BORDERLESS"
+		fullscreen = "WINDOWED"
 		#Configure FPS Display mode
 		#Complete mode gives you min FPS count and average count
 		#Allowed Values: OFF, SIMPLE, ADVANCED
-		fpsDisplay = "ADVANCED"
+		fpsDisplay = "SIMPLE"
 		#Configure FPS Display gravity
 		#Places counter on specified corner of your screen
 		#Allowed Values: LEFT, CENTER, RIGHT
@@ -20,7 +20,7 @@
 		fpsDisplayMargin = 12
 		#Toggle FPS Display shadow
 		#In case sometimes you can't see the text
-		fpsDisplayShadow = false
+		fpsDisplayShadow = true
 
 	[embeddiumextras.quality]
 		#Toggle fog feature
@@ -39,7 +39,7 @@
 			#Configure Darkness Mode
 			#Each config changes what is considered 'true darkness'
 			#Allowed Values: PITCH_BLACK, TOTAL_DARKNESS, DARK, DIM, OFF
-			mode = "TOTAL_DARKNESS"
+			mode = "OFF"
 			#Toggle Darkness on Overworld dimension
 			enableOnOverworld = true
 			#Toggle Darkness on Nether dimension
@@ -66,7 +66,7 @@
 			affectedByMoonPhase = true
 			#Configure max moon brightness level with darkness
 			#Range: 0.0 ~ 1.0
-			fullMoonBright = 0.25
+			fullMoonBright = 1.0
 			#Configure min moon brightness level with darkness
 			#Range: 0.0 ~ 1.0
 			newMoonBright = 0.0
@@ -78,7 +78,7 @@
 		#Toggles Minecraft Fonts shadows
 		#Depending of the case may increase performance
 		#Gives a flat style text
-		fontShadows = true
+		fontShadows = false
 
 			[embeddiumextras.performance.distanceCulling.tileEntities]
 				#Toggles distance culling for Block Entities
@@ -91,7 +91,7 @@
 				#Configure vertical max distance before cull Block entities
 				#Value is raw
 				#Range: 0 ~ 512
-				cullingMaxDistanceY = 32
+				cullingMaxDistanceY = 48
 				#List of all Block Entities to be ignored by distance culling
 				#Uses ResourceLocation to identify it
 				#Example 1: "minecraft:chest" - Ignores chests only
@@ -101,7 +101,7 @@
 			[embeddiumextras.performance.distanceCulling.entities]
 				#Toggles distance culling for entities
 				#Maybe you use another mod for that :(
-				enable = true
+				enable = false
 				#Configure horizontal max distance before cull entities
 				#Value is squared, default was 64^2 (or 64x64)
 				#Range: > 0

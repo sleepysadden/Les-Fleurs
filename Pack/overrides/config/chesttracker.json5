@@ -1,11 +1,11 @@
 {
 	gui: {
-		autofocus_search_bar: false,
-		show_autocomplete: true,
+		autofocus_search_bar: true,
+		show_autocomplete: false,
 		autocomplete_shows_regular_names: true,
 		show_resize_widget: true,
 		grid_width: 9,
-		grid_height: 6,
+		grid_height: 12,
 		hide_memory_ids: true,
 		item_list_text_scale: 0,
 		use_custom_name_in_g_u_is: true,

@@ -1,6 +1,6 @@
 {
-  "readTimeoutSeconds": 120,
+  "readTimeoutSeconds": 1200,
   "loginTimeoutTicks": 2400,
-  "keepAlivePacketIntervalSeconds": 15,
+  "keepAlivePacketIntervalSeconds": 150,
   "keepAliveTimeoutSeconds": 120
 }

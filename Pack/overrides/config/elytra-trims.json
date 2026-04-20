@@ -11,7 +11,7 @@
         "cropTrims": true,
         "useDarkerTrim": false,
         "useBannerTextures": false,
-        "useElytraModel": true
+        "useElytraModel": false
     },
     "compat": {
         "smysKeepTrims": true

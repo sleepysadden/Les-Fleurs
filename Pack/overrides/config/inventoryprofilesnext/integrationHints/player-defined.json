@@ -1,0 +1,23 @@
+{
+    "net.minecraft.class_490": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 52,
+                "top": 435
+            },
+            "SETTINGS": {
+                "horizontalOffset": 37,
+                "top": 420
+            }
+        }
+    },
+    "slimeknights.tconstruct.smeltery.client.screen.HeatingStructureScreen": {
+        "ignore": true,
+        "playerSideOnly": true,
+        "disableFastSwipe": true
+    },
+    "slimeknights.tconstruct.smeltery.menu.HeatingStructureContainerMenu": {
+        "ignore": true,
+        "playerSideOnly": true
+    }
+}

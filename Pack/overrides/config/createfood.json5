@@ -53,6 +53,16 @@
 	"isBaconSandwichEnabled": true,
 	// Enable Bacon Sandwich (Lettuce).
 	"isBaconSandwichLettuceEnabled": true,
+	// Enable Baked Potato (Butter).
+	"isBakedPotatoButterEnabled": true,
+	// Enable Baked Potato (Butter, Cheese).
+	"isBakedPotatoButterCheeseEnabled": true,
+	// Enable Baked Potato (Butter, Fish).
+	"isBakedPotatoButterFishEnabled": true,
+	// Enable Baked Potato (Butter, Fried Egg).
+	"isBakedPotatoButterFriedEggEnabled": true,
+	// Enable Baked Potato (Butter, Mushroom).
+	"isBakedPotatoButterMushroomEnabled": true,
 	// Enable Bar of Dark Chocolate.
 	"isDarkChocolateBarEnabled": true,
 	// Enable Bar of White Chocolate.
@@ -119,10 +129,16 @@
 	"isBlackstrapMolassesBottleEnabled": true,
 	// Enable Blue Gelatin Dessert Slice.
 	"isBlueGelatinDessertSliceEnabled": true,
+	// Enable Boiled Egg.
+	"isBoiledEggEnabled": true,
+	// Enable Boiled Egg (Peeled).
+	"isBoiledEggPeeledEnabled": true,
 	// Enable Brown Gelatin Dessert Slice.
 	"isBrownGelatinDessertSliceEnabled": true,
 	// Enable Brown Sugar. Recommend 'disable' with Ube's Delight installed.
 	"isBrownSugarEnabled": true,
+	// Enable Bread Crumbs.
+	"isBreadCrumbsEnabled": true,
 	// Enable Bread (Carrot).
 	"isBreadCarrotEnabled": true,
 	// Enable Bread (Fried Egg).
@@ -511,6 +527,8 @@
 	"isEggPowderEnabled": true,
 	// Enable Fish Calzone.
 	"isFishCalzoneEnabled": true,
+	// Enable Fishcake.
+	"isFishcakeEnabled": true,
 	// Enable Frosted Cake.
 	"isFrostedCakeEnabled": true,
 	// Enable Frosted Chocolate Cupcake.
@@ -943,6 +961,8 @@
 	"isRawDarkChipsCookieEnabled": true,
 	// Enable Raw Dark Chocolate Chip Muffin.
 	"isRawDarkChocolateChipMuffinEnabled": true,
+	// Enable Raw Fishcake.
+	"isRawFishcakeEnabled": true,
 	// Enable Raw Fish Calzone.
 	"isRawFishCalzoneEnabled": true,
 	// Enable Raw Gyro Meat Block.
